@@ -13,4 +13,5 @@ import { FourthComponent } from './fourth/fourth.component';
 })
 export class AppComponent {
   title = 'angular-herrera';
+  karla = 'app'
 }
